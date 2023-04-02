@@ -1,3 +1,3 @@
 # git_test
-GitHub test repo for TOP
+GitHub test repo for TOP.
 Hello Odin!
